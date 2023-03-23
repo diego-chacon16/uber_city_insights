@@ -4,14 +4,17 @@
 
 ### Data Description
 
+To answer the question, use the dataset from the file dataset_1.csv. For example, consider the row 11 from this dataset:
 
++ Date: Day of Year
++ Time (Local): Local time in 24 Hour Clock (Ie. 2 PM is 14:00)
++ Eyeballs: Number of people who opened the Uber App
++ Zeroes: Number of Customers who did NOT see a car
++ Completed Trips: Total number of completed trips from the Customer requests
++ Requests: Number of Customer Requests asking to be picked up
++ Unique Drivers: Totsl number of unique driver online
 
-
-
-
-
-
-
+### Questions to address
 
 + Which date had the most completed trips during the two week period?
 + What was the highest number of completed trips within a 24 hour period?
