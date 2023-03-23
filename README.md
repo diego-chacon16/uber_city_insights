@@ -26,4 +26,4 @@ To answer the question, use the dataset from the file dataset_1.csv. For example
 + In which 72 hour period is the ratio of Zeroes to Eyeballs the highest?
 + If you could add 5 drivers to any single hour of every day during the two week period, which hour should you add them to? Hint: Consider both rider eyeballs and driver       supply when choosing
 + True or False: There is exactly two weeks of data in this analysis
-+ Looking at the data from all two weeks, which time might make the most sense to consider a true "end day" instead of midnight? (i.e when are supply and demand at both their   natural minimums) Tip: Visualize the data to confirm your answer if needed.
++ Looking at the data from all two weeks, which time might make the most sense to consider a true "end day" instead of midnight? (i.e when are supply and demand at both their   natural minimums)
