@@ -14,16 +14,22 @@ To answer the question, use the dataset from the file dataset_1.csv. For example
 + Requests: Number of Customer Requests asking to be picked up
 + Unique Drivers: Totsl number of unique driver online
 
-### Questions to address
+### Questions
 
-+ Which date had the most completed trips during the two week period?
-+ What was the highest number of completed trips within a 24 hour period?
-+ Which hour of the day had the most requests during the two week period?
-+ What percentages of all zeroes during the two week period occurred on weekend (Friday at 5 pm to Sunday at 3 am)? 
-+ What is the weighted average ratio of completed trips per driver during the two week period?
-+ In drafting a driver schedule in terms of 8 hours shifts, when are the busiest 8 consecutive hours over the two week period in terms of unique requests? A new shift starts   in every 8 hours. Assume that a driver will work same shift each day.
-+ True or False: Driver supply always increases when demand increases during the two week period.
-+ In which 72 hour period is the ratio of Zeroes to Eyeballs the highest?
-+ If you could add 5 drivers to any single hour of every day during the two week period, which hour should you add them to? 
-+ True or False: There is exactly two weeks of data in this analysis
-+ Looking at the data from all two weeks, which time might make the most sense to consider a true "end day" instead of midnight? (i.e when are supply and demand at both       their natural minimums)
+#### Section 1: Completed Trips
+
+1. Which date had the most completed trips during the two week period?
+2. What was the highest number of completed trips within a 24 hour period?
+3. What is the weighted average ratio of completed trips per driver during the two week period?
+
+#### Section 2: Requests and Zeroes
+1. Which hour of the day had the most requests during the two week period?
+2. What percentages of all zeroes during the two week period occurred on weekend (Friday at 5 pm to Sunday at 3 am)? 
+3. In drafting a driver schedule in terms of 8 hours shifts, when are the busiest 8 consecutive hours over the two week period in terms of unique requests? A new shift          starts in every 8 hours. Assume that a driver will work same shift each day.
+
+#### Section 3: Supply & Demand + True or False
+1. Looking at the data from all two weeks, which time might make the most sense to consider a true "end day" instead of midnight? (i.e when are supply and demand at both        their natural minimums)
+2. In which 72 hour period is the ratio of Zeroes to Eyeballs the highest?
+3. If you could add 5 drivers to any single hour of every day during the two week period, which hour should you add them to? 
+4. True or False: There is exactly two weeks of data in this analysis
+5. True or False: Driver supply always increases when demand increases during the two week period.
