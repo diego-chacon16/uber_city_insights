@@ -13,6 +13,7 @@ To answer the question, use the dataset from the file dataset_1.csv. For example
 + Completed Trips: Total number of completed trips from the Customer requests
 + Requests: Number of Customer Requests asking to be picked up
 + Unique Drivers: Totsl number of unique driver online
+  - Should instances where there are no drivers available count?
 
 ### Questions
 
