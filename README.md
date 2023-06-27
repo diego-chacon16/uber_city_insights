@@ -4,7 +4,7 @@
 
 ### Data Description
 
-To answer the question, use the dataset from the file dataset_1.csv. For example, consider the row 11 from this dataset:
+Rows in dataset:
 
 + Date: Day of Year
 + Time (Local): Local time in 24 Hour Clock (Ie. 2 PM is 14:00)
