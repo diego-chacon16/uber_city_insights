@@ -12,7 +12,7 @@ Rows in dataset:
 + Zeroes: Number of Customers who did NOT see a car
 + Completed Trips: Total number of completed trips from the Customer requests
 + Requests: Number of Customer Requests asking to be picked up
-+ Unique Drivers: Totsl number of unique driver online
++ Unique Drivers: Total number of unique driver online
   - Should instances where there are no drivers available count?
 
 ### Questions
