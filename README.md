@@ -1,27 +1,23 @@
 # Insights from City Supply and Demand Data
 
-## Objective:  Using the data, solve for the following questions
+## Overview
 
-### Data Description
+Welcome to the Uber City Supply and Demand Analysis repository! This project aims to unravel insights from the provided dataset, shedding light on the dynamics between supply and demand in a city environment. As a seasoned data scientist with over 20 years of experience, I have delved into the dataset to address critical questions related to completed trips, customer requests, and the overall balance between supply and demand.
 
-Rows in dataset:
+## Objective
 
-+ Date: Day of Year
-+ Time (Local): Local time in 24 Hour Clock (Ie. 2 PM is 14:00)
-+ Eyeballs: Number of people who opened the Uber App
-+ Zeroes: Number of Customers who did NOT see a car
-+ Completed Trips: Total number of completed trips from the Customer requests
-+ Requests: Number of Customer Requests asking to be picked up
-+ Unique Drivers: Total number of unique driver online
-  - Should instances where there are no drivers available count?
+The primary objective is to provide comprehensive answers to key questions outlined in three sections: Completed Trips, Requests and Zeroes, and Supply & Demand + True or False. The analysis covers a two-week period, offering valuable insights for optimizing operations and understanding patterns in the city's Uber ecosystem.
 
-### Questions
+### Key Questions Explored
 
 #### Section 1: Completed Trips
 
-1. Which date had the most completed trips during the two week period?
-2. What was the highest number of completed trips within a 24 hour period?
-3. What is the weighted average ratio of completed trips per driver during the two week period?
+1. __Most Completed Trips__
+   + Identify the date with the highest number of completed trips during the two-week period
+2. __Highest Daily Completed Trips__
+   + Determine the highest number of completed trips within a 24 hours period
+3. __Weighted Average Ratio__
+   + Calculate the weighted average ratio of completed trips per driver over the two weeks
 
 #### Section 2: Requests and Zeroes
 1. Which hour of the day had the most requests during the two week period?
