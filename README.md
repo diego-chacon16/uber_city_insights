@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Uber City Supply and Demand Analysis repository! This project aims to unravel insights from the provided dataset, shedding light on the dynamics between supply and demand in a city environment. As a seasoned data scientist with over 20 years of experience, I have delved into the dataset to address critical questions related to completed trips, customer requests, and the overall balance between supply and demand.
+Welcome to the Uber City Supply and Demand Analysis repository! This project aims to unravel insights from the provided dataset, shedding light on the dynamics between supply and demand in a city environment. The purpose is to dive into the dataset to address critical questions related to completed trips, customer requests, and the overall balance between supply and demand.
 
 ## Objective
 
