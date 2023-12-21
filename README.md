@@ -8,9 +8,9 @@ Welcome to the Uber City Supply and Demand Analysis repository! This project aim
 
 The primary objective is to provide comprehensive answers to key questions outlined in three sections: Completed Trips, Requests and Zeroes, and Supply & Demand + True or False. The analysis covers a two-week period, offering valuable insights for optimizing operations and understanding patterns in the city's Uber ecosystem.
 
-### Key Questions Explored
+## Key Questions Explored
 
-#### __Section 1: Completed Trips__
+### __Section 1: Completed Trips__
 
 1. __Most Completed Trips__
    + Identify the date with the highest number of completed trips during the two-week period
@@ -19,7 +19,7 @@ The primary objective is to provide comprehensive answers to key questions outli
 3. __Weighted Average Ratio__
    + Calculate the weighted average ratio of completed trips per driver over the two weeks
 
-#### __Section 2: Requests and Zeroes__
+### __Section 2: Requests and Zeroes__
 
 1. __Peak Request Hour__
    + Identify the hour of the day with the highest number of requests during the two-week period
@@ -28,7 +28,7 @@ The primary objective is to provide comprehensive answers to key questions outli
 3. __Busiest 8 Consecutive Hours__
    + Define the busiest 8 consecutive hours in terms of unique requests, considering an 8-hour shift
 
-#### __Section 3: Supply & Demand + True or False__
+### __Section 3: Supply & Demand + True or False__
 
 1. __Natural "End Day" Time__
    + Identify the time that might make the most sense to consider as a true "end day" instead of midnight, based on supply and demand patterns
